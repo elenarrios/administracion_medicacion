@@ -1,0 +1,4 @@
+Se solicita un sistema que muestre, los pacientes que requieren medicación, ordenados según el horario en que corresponda.
+El sistema debe mostrar en formato de tabla: el horario, el paciente, la medicación, la dosis, y el stock de dicha medicación disponible; cuando el stock llege a 5 dosis disponibles, el responsable de administrar la medicacion de dicho abuelo, deberá notificar a la familia para que repongan el stock (podría ser automático).
+En caso de que, el paciente no reciba su tratamiento pasado el horario, la fila correspondiente se mantenga en la pantalla, pero en color rojo.
+Por el contrario, una vez administrada la dosis, que el encargado de tal tarea, por medio de un boton pueda eliminar de la cola al paciente.   
